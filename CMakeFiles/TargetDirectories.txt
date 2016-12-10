@@ -1,0 +1,3 @@
+/home/viktor/my_new_project/CMakeFiles/edit_cache.dir
+/home/viktor/my_new_project/CMakeFiles/rebuild_cache.dir
+/home/viktor/my_new_project/CMakeFiles/DisplayImage.dir
